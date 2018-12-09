@@ -1,0 +1,10 @@
+com\springapp\model\User.class
+com\springapp\config\WebConfig.class
+com\springapp\dao\UserDaoImpl$UserMapper.class
+com\springapp\dao\UserDao.class
+com\springapp\dao\UserDaoImpl$1.class
+com\springapp\dao\UserDaoImpl.class
+com\springapp\controller\UserController.class
+com\springapp\service\UserService.class
+com\springapp\service\UserServiceImpl.class
+com\springapp\config\WebInitializer.class
