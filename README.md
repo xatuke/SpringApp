@@ -1,7 +1,7 @@
 # SpringApp
 A web-app which supports CRUD operations.
 
-[Youtube](https://youtu.be/89bYHjauJs8)
+[Youtube Video](https://youtu.be/89bYHjauJs8)
 
 ## Instructions to use:
 ### Database
