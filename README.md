@@ -50,3 +50,5 @@ After completing the above steps, you're good to go after starting the server, g
 ![img1](https://i.imgur.com/tqwBr3l.png)
 ![img2](https://i.imgur.com/mAxOaJc.png)
 ![img3](https://i.imgur.com/dLnXyZE.png)
+
+Google Code-in and the Google Code-in logo are trademarks of Google Inc.
